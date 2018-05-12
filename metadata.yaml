@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/157
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Haydn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17421#Emperor-Quartet-op.76-no.3.-2nd-movementArranged-for-solo-guitar
 gutenberg_issued: '2005-12-31'
 gutenberg_type: Text
 identifiers:
