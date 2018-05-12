@@ -1,0 +1,37 @@
+_repo: Emperor-Quartet-op.76-no.3.-2nd-movementArranged-for-solo-guitar_17421
+_version: 0.1.0
+contributor:
+  arranger:
+    agent_name: Davis, Rick
+    gutenberg_agent_id: '38502'
+    url: http://www.gutenberg.org/2009/agents/38502
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haydn, Joseph
+    aliases:
+    - Haydn, Franz Joseph
+    - Haydn, Franz Josef
+    birthdate: 1732
+    deathdate: 1809
+    gutenberg_agent_id: '157'
+    url: http://www.gutenberg.org/2009/agents/157
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Haydn
+description: ''
+gutenberg_issued: '2005-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guitar music, Arranged'
+- !lcc 'M'
+title: 'Emperor Quartet op.76 no.3., 2nd movement
+
+  Arranged for solo guitar'
+url: http://www.gutenberg.org/ebooks/17421
